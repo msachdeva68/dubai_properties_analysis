@@ -1,6 +1,3 @@
-# dubai_properties_analysis
-
-
 ## Author
 
 - [@msachdeva68](https://github.com/msachdeva68)
